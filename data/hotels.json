@@ -1,0 +1,44 @@
+[
+  {
+    "hotel_id": "H001",
+    "destination": "Goa",
+    "hotel_category": "Premium",
+    "room_rate": 4200,
+    "rooms_sold": 65
+  },
+  {
+    "hotel_id": "H002",
+    "destination": "Jaipur",
+    "hotel_category": "Standard",
+    "room_rate": 2600,
+    "rooms_sold": 72
+  },
+  {
+    "hotel_id": "H003",
+    "destination": "Manali",
+    "hotel_category": "Premium",
+    "room_rate": 3800,
+    "rooms_sold": 58
+  },
+  {
+    "hotel_id": "H004",
+    "destination": "Kerala",
+    "hotel_category": "Deluxe",
+    "room_rate": 3500,
+    "rooms_sold": 62
+  },
+  {
+    "hotel_id": "H005",
+    "destination": "Mumbai",
+    "hotel_category": "Business",
+    "room_rate": 5000,
+    "rooms_sold": 80
+  },
+  {
+    "hotel_id": "H006",
+    "destination": "Agra",
+    "hotel_category": "Standard",
+    "room_rate": 2400,
+    "rooms_sold": 55
+  }
+]
